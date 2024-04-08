@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(43, 42, 76); 
+ }
+ 
+ div {
+     height: 100px;
+ }
+
+ p {
+    height: 50%;
+ }
+ 
+ .cabecalho {
+     background-color: rgb(179, 19, 18);
+ }
+ 
+ .tituloh1 {
+     color: white;
+ }
